@@ -1,0 +1,110 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* color: white; */
+}
+
+.top-img{
+  background-image: url(../img/img03.jpg);
+  padding: 250px 0px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.top-text{
+  text-align: center;
+}
+
+.top-text h1{
+  font-size: 100px;
+  font-family: 'Dancing Script', cursive;
+}
+
+nav h3{
+  font-family: 'Dancing Script', cursive;
+  color: black;
+}
+
+nav i{
+  color: #888888;
+}
+
+.night-sky{
+  background-image: url(../img/fix-bg2.jpg);
+  padding: 200px 0px;
+  background-size: cover;
+  text-align: center;
+  background-attachment: fixed;
+}
+
+.night-sky h2{
+  font-size: 80px;
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 30px;
+}
+
+.service-list{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 50px;
+  }
+
+.service-list h2{
+  font-size: 80px;
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 30px;
+}
+
+.service-list h3{
+  padding: 10px;
+}
+
+.service-list p{
+  text-align: left;
+  line-height: 2em;
+}
+
+.service-list img{
+  padding: 20px;
+}
+
+
+
+.info {
+  border: 2px solid ;
+  padding: 20px;
+  margin: 20px;
+}
+
+.info p{
+  padding-top: 10px;
+}
+
+.info p{
+  text-align: left;
+}
+
+footer{
+  background-color: #333333;
+  padding: 30px;
+}
+
+footer ul li{
+  list-style: none;
+ } 
+
+ footer ul li a{
+   color: #aaa;
+   font-size: 13px;
+ }
+
+ footer ul li a:hover{
+   color: white ;
+   text-decoration: none;
+  }
+
+  footer p{
+    color: #aaa;
+    text-align: right;
+  }
